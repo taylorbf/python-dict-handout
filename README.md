@@ -56,7 +56,7 @@ print profile['location']
 
 ```
 
-Therefore, a dictionary is often a more descriptiive data structure than a list.
+Therefore, a dictionary is often a more descriptive data structure than a list.
 
 <br>
 
@@ -235,7 +235,7 @@ us_census = [
 					location: "VH1"	
 		  		},
 				{
-					name: "Alanis Morisette",
+					name: "Alanis Morissette",
 					occupation: "90s icon",
 					location: "MTV"	
 		  		},
@@ -247,7 +247,7 @@ us_census = [
 			]
 ```
 
-OK, we have a census of 3 people.
+OK, we have a census of 3 people (strangely, all located on media waves...).
 
 To access values now will involve a bit more navigation! Let's construct the code piece by piece.
 
